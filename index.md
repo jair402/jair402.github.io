@@ -1,6 +1,8 @@
 ## Jair Rodriguez
 ### Artsit, Graphic Designer, Muralist
 
+2.Jairdesigns@gmail.com
+2.based in Omaha, Ne
 
 You can use the [editor on GitHub](https://github.com/jair402/jair402.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
