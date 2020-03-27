@@ -311,7 +311,7 @@ div.gallery {
   margin: 5px;
   border: none;
   float: left;
-  width: 100%;
+  width: 500px;
 }
 
 div.gallery:hover {
