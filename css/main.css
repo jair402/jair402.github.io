@@ -282,7 +282,7 @@ a {
   color: #999;
 }
 a:hover {
-  text-decoration: underline;
+  text-decoration: underline; 
 }
 h1 {
   font-size: 3em;
@@ -296,6 +296,7 @@ p {
 footer {
   border-top: 1px solid #d5d5d5;
   font-size: .8em;
+  padding: 15px;
 }
 
 ul.posts { 
@@ -308,7 +309,7 @@ ul.posts li {
 }
 /* Photo gallery */
 div.gallery {
-  margin: 5px;
+  margin: 10px;
   border: none;
   float: left;
   width: 300px;
