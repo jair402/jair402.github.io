@@ -316,7 +316,8 @@ div.gallery {
 }
 
 div.gallery:hover {
-  border: 1px solid #777;
+  border: none;
+  background-color: #999;
 }
 
 div.gallery img {
