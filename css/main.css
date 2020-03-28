@@ -317,7 +317,7 @@ div.gallery {
 
 div.gallery:hover {
   border: none;
-  background-color: #999;
+  background-color: azure;
 }
 
 div.gallery img {
